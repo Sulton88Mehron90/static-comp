@@ -5,7 +5,7 @@
 This HTML and CSS only project was built with the goal of matching a provided comp screenshot. The project was created during Mod 2 while attending the Turing School of Software & Design.
 
 ### Launch
-[Github Pages Link](https://Sulton88Mehron90.github.io/static-comp/)
+[Github Pages Link](https://sulton88mehron90.github.io/static-comp/)
 
 ### Learning Goals
 - Match provided spec as closely as possibly
